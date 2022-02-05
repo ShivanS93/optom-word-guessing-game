@@ -1,4 +1,10 @@
-Word Guessing Game
+# Optom Word Guessing Game
+
+This project is cloned from https://github.com/hannahcode/word-guessing-game. Please check it out.
+
+This is adapted to optometry keywords.
+
+## How to run the project locally
 
 This is a clone project of a popular word guessing game made using React, Typescript, and Tailwind.
 

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/optom-word-guessing-game/static/css/main.bb3bfa6c.css",
-    "main.js": "/optom-word-guessing-game/static/js/main.8841f823.js",
+    "main.css": "/optom-word-guessing-game/static/css/main.4e275e94.css",
+    "main.js": "/optom-word-guessing-game/static/js/main.dc5c2445.js",
     "static/js/787.b4bcfc4b.chunk.js": "/optom-word-guessing-game/static/js/787.b4bcfc4b.chunk.js",
     "index.html": "/optom-word-guessing-game/index.html",
-    "main.bb3bfa6c.css.map": "/optom-word-guessing-game/static/css/main.bb3bfa6c.css.map",
-    "main.8841f823.js.map": "/optom-word-guessing-game/static/js/main.8841f823.js.map",
+    "main.4e275e94.css.map": "/optom-word-guessing-game/static/css/main.4e275e94.css.map",
+    "main.dc5c2445.js.map": "/optom-word-guessing-game/static/js/main.dc5c2445.js.map",
     "787.b4bcfc4b.chunk.js.map": "/optom-word-guessing-game/static/js/787.b4bcfc4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb3bfa6c.css",
-    "static/js/main.8841f823.js"
+    "static/css/main.4e275e94.css",
+    "static/js/main.dc5c2445.js"
   ]
 }

@@ -1,8 +1,12 @@
 # Optom Word Guessing Game
 
-This project is cloned from https://github.com/hannahcode/word-guessing-game. Please check it out.
+This project is cloned from https://github.com/hannahcode/word-guessing-game.
+
+Please check it out.
 
 This is adapted to optometry keywords.
+
+Also, thanks to https://www.allaboutvision.com and their glossary of optometry words.
 
 ## How to run the project locally
 
